@@ -6,3 +6,7 @@ body {
   background-size: cover;
   color: white;
 }
+
+.panel-body p {
+  color: black;
+}
